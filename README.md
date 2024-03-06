@@ -28,8 +28,7 @@ raw form and manipulating it until it teaches us something meaningful about our 
 world.
 * Since the focus here is on formulating a research question, identifying relevant data,
 processing the data, performing an appropriate analysis, and interpreting the results,
-you can choose which format works best for you to accomplish this:
-Write an 8-10 page research paper (not including references) in the style of an
+write an 8-10 page research paper (not including references) in the style of an
 academic paper, policy brief, public health report, or other professional
 manuscript (we can discuss options) that aligns with the type of employment you
-might seek after you graduate
+might seek after you graduate. I chose predicting the probability of developing Substance Use Disorder (SUD) within US Veterans. This is done using the publicly available NSDUH dataset.
