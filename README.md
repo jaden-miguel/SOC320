@@ -26,9 +26,9 @@ Therefore, your final project for the course will be to produce a piece of origi
 that uses one of the data sources we have discussed in class, taking the data from its
 raw form and manipulating it until it teaches us something meaningful about our social
 world.
-* Since the focus here is on formulating a research question, identifying relevant data,
-processing the data, performing an appropriate analysis, and interpreting the results,
-write an 8-10 page research paper (not including references) in the style of an
+* Our focus here is on formulating a research question, identifying relevant data,
+processing the data, performing an appropriate analysis, and interpreting the results.
+Write an 8-10 page research paper (not including references) in the style of an
 academic paper, policy brief, public health report, or other professional
 manuscript (we can discuss options) that aligns with the type of employment you
 might seek after you graduate. I chose predicting the probability of developing Substance Use Disorder (SUD) within US Veterans. This is done using the publicly available NSDUH dataset.
